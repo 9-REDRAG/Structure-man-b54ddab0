@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+td.eerste ,th {
+  padding: 10px;
+  background-color: lightgrey;
+}
+
+td.atomen {
+ padding: 10px;
+ background-color: #565359;
+}
+
+td.eerste
